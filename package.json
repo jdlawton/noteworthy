@@ -1,0 +1,22 @@
+{
+  "name": "noteworthy",
+  "version": "1.0.0",
+  "description": "A note taking app using Express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Lawton",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdlawton/noteworthy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jdlawton/noteworthy/issues"
+  },
+  "homepage": "https://github.com/jdlawton/noteworthy#readme"
+}
