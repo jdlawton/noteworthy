@@ -1,3 +1,5 @@
+//I did not make any changes to the code in index.js
+
 var $noteTitle = $(".note-title");
 var $noteText = $(".note-textarea");
 var $saveNoteBtn = $(".save-note");
