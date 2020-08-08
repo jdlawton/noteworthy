@@ -24,6 +24,16 @@
       "title": "Another new note",
       "text": "Here is the text",
       "id": "86zz7jwkdlt96gl"
+    },
+    {
+      "title": "Testing again",
+      "text": "test test test",
+      "id": "86zz7ngkdlxskml"
+    },
+    {
+      "title": "CLean up my code",
+      "text": "Don't forget to document!",
+      "id": "86zzi38kdm03ube"
     }
   ]
 }
