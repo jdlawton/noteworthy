@@ -6,6 +6,9 @@
   ## Description
   Noteworthy is a note taking app that uses Express. Notes are stored in the cloud on the Express server so they can be accessed anywhere.
 
+  **Heroku Link**
+  [Live Deployment](https://lit-shelf-32609.herokuapp.com/)
+
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
